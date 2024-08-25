@@ -1,1 +1,1 @@
-# CodSoft-Task-3
+Developed a simple yet functional calculator using HTML, CSS, and JavaScript. The calculator supports basic arithmetic operations with a user-friendly interface. JavaScript handles real-time calculations and error checks. The design is responsive, ensuring usability across various devices.
